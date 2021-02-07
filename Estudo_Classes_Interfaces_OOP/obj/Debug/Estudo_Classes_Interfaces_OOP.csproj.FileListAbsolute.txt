@@ -1,0 +1,7 @@
+C:\Users\Fabio\source\repos\Estudo_Classes_Interfaces_OOP\Estudo_Classes_Interfaces_OOP\bin\Debug\Estudo_Classes_Interfaces_OOP.exe.config
+C:\Users\Fabio\source\repos\Estudo_Classes_Interfaces_OOP\Estudo_Classes_Interfaces_OOP\bin\Debug\Estudo_Classes_Interfaces_OOP.exe
+C:\Users\Fabio\source\repos\Estudo_Classes_Interfaces_OOP\Estudo_Classes_Interfaces_OOP\bin\Debug\Estudo_Classes_Interfaces_OOP.pdb
+C:\Users\Fabio\source\repos\Estudo_Classes_Interfaces_OOP\Estudo_Classes_Interfaces_OOP\obj\Debug\Estudo_Classes_Interfaces_OOP.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\Estudo_Classes_Interfaces_OOP\Estudo_Classes_Interfaces_OOP\obj\Debug\Estudo_Classes_Interfaces_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\Estudo_Classes_Interfaces_OOP\Estudo_Classes_Interfaces_OOP\obj\Debug\Estudo_Classes_Interfaces_OOP.exe
+C:\Users\Fabio\source\repos\Estudo_Classes_Interfaces_OOP\Estudo_Classes_Interfaces_OOP\obj\Debug\Estudo_Classes_Interfaces_OOP.pdb
